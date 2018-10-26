@@ -1,2 +1,2 @@
 # automatic-broccoli
-Super Simple Short Hashmaker and tools
+Super Simple Short Python Hashmaker and Tools
